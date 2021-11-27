@@ -20,6 +20,7 @@
     height: 16rem;
     width: 100%;
     padding: 1rem;
+    -ms-webkit-clip-path: polygon(30% 0%, 70% 0%, 100% 0, 100% 43%, 58% 83%, 0 100%, 0% 70%, 0 0);
     clip-path: polygon(30% 0%, 70% 0%, 100% 0, 100% 43%, 58% 83%, 0 100%, 0% 70%, 0 0);
 }
 .header h2{
